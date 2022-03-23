@@ -13,7 +13,7 @@
             <RowDefinition />
         </Grid.RowDefinitions>
         
-        <Button x:Name="ProcessButton" Grid.Row="2" Width="100" Height="50" Click="ProcessButton_Click">Process File</Button>
+        <Button x:Name="ProcessButton" Grid.Row="1" Width="100" Height="50" Click="ProcessButton_Click">Process File</Button>
 
     </Grid>
 </Window>
